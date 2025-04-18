@@ -16,9 +16,9 @@ This project is part of the coursework for **IT3232 – E-Commerce**.
 
 - **Frontend:** React, Axios, Bootstrap/CSS  
 - **Backend:** Spring Boot, REST API  
-- **Database:** MySQL (or PostgreSQL)
+- **Database:** MySQL
 
-## 👩‍💻 Authors
+## 👩‍💻 Group members
 
 - Member 1 – S.P Malalarathna
 - Member 2 – K.S.A Dharmapriya
